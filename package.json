@@ -1,0 +1,21 @@
+{
+  "name": "cookie-tin-theme",
+  "displayName": "cookie-tin-theme",
+  "description": "Celestial theme for butter cookies that love to code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Celestial Seamstress",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Celestial Seamstress-color-theme.json"
+      }
+    ]
+  }
+}
