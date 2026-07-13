@@ -2,7 +2,23 @@
   "name": "cookie-tin-theme",
   "displayName": "cookie-tin-theme",
   "description": "Celestial theme for butter cookies that love to code",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "GabrielLathos",
+  "keywords": [
+    "theme",
+    "amanogawa",
+    "shiina",
+    "amanogawa shiina",
+    "buttercookies",
+    "butter",
+    "cookie",
+    "vtuber",
+    "phase",
+    "connect",
+    "phase connect"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.104.0"
   },
