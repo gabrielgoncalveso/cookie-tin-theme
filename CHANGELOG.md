@@ -11,6 +11,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Celestial Sailor Theme
 - Chinese Sniper Theme
 
+## 1.0.3
+
+- Fix status bar color when no folder is open
+
 ## 1.0.1
 
 - Fix display name of extension
