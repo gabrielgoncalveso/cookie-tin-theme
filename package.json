@@ -17,6 +17,11 @@
     "connect",
     "phase connect"
   ],
+  "homepage": "https://github.com/gabrielgoncalveso/cookie-tin-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielgoncalveso/cookie-tin-theme"
+  },
   "license": "SEE LICENSE IN LICENSE",
   "icon": "assets/icon.png",
   "engines": {
