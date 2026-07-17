@@ -41,6 +41,16 @@
         "label": "Celestial Sailor",
         "uiTheme": "vs-dark",
         "path": "./themes/Celestial Sailor-color-theme.json"
+      },
+      {
+        "label": "Banana Drip",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Banana Drip-color-theme.json"
+      },
+      {
+        "label": "Kani Pajamas",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kani Pajamas-color-theme.json"
       }
     ]
   }
