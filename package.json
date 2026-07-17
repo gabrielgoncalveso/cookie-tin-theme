@@ -36,6 +36,11 @@
         "label": "Celestial Seamstress",
         "uiTheme": "vs-dark",
         "path": "./themes/Celestial Seamstress-color-theme.json"
+      },
+      {
+        "label": "Celestial Sailor",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Celestial Sailor-color-theme.json"
       }
     ]
   }
