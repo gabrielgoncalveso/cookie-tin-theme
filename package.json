@@ -51,6 +51,11 @@
         "label": "Kani Pajamas",
         "uiTheme": "vs-dark",
         "path": "./themes/Kani Pajamas-color-theme.json"
+      },
+      {
+        "label": "Codename: Seamstress",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Codename Seamstress-color-theme.json"
       }
     ]
   }

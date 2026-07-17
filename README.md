@@ -10,6 +10,7 @@ Celestial theme for butter cookies that love to code.
 - **Celestial Sailor**: A purple-leaning variant of Celestial Seamstress based on Shiina's Sailor outfit
 - **Banana Drip**: A yellow-leaning variant of Celestial Seamstress based on Shiina's Banana outfit
 - **Kani Pajamas**: A red-leaning variant of Celestial Seamstress based on Shiina's Crab Hoodie outfit
+- **Codename: SEAMSTRESS**: A black and dark-grey variant of Celestial Seamstress based on hew newest outfit Codename: SEAMSTRESS,
 
 ## License
 
