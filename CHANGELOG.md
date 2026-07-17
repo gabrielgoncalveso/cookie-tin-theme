@@ -4,12 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
-## [Unreleased]
+## 2.0.0
 
-- Kani Pajama Theme
-- Banana Drip Theme
-- Celestial Sailor Theme
-- Chinese Sniper Theme
+- Add new theme Celestial Sailor
+- Add new theme Banana Drip
+- Add new theme Kani Pajamas
+- Add new theme Codename: Seamstress
+- Fixes to some highlight colors in Celestial Seamstress theme
 
 ## 1.0.3
 

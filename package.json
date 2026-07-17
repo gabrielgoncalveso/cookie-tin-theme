@@ -36,6 +36,26 @@
         "label": "Celestial Seamstress",
         "uiTheme": "vs-dark",
         "path": "./themes/Celestial Seamstress-color-theme.json"
+      },
+      {
+        "label": "Celestial Sailor",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Celestial Sailor-color-theme.json"
+      },
+      {
+        "label": "Banana Drip",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Banana Drip-color-theme.json"
+      },
+      {
+        "label": "Kani Pajamas",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kani Pajamas-color-theme.json"
+      },
+      {
+        "label": "Codename: Seamstress",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Codename Seamstress-color-theme.json"
       }
     ]
   }
